@@ -1,2 +1,2 @@
-# Is-even
-Is-Even but ported to C
+# Is Even or Odd
+Is-Even & Is-Odd but ported to C 
